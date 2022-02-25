@@ -12,6 +12,7 @@ public class Main {
         String name = sc.next();
 
         System.out.println("Hey  " + name);
+        System.out.println("Hey again" + name);
 
     }
 
