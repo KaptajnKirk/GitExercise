@@ -9,7 +9,9 @@ public class Main {
     public void greet () {
 
         System.out.println("Please input your name: ");
-        int name = sc.nextInt();
+        String name = sc.next();
+
+        System.out.println("Hey  " + name);
 
     }
 
